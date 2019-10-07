@@ -48,3 +48,5 @@ qui va gérer les clients du resto et les retours des clients
 * login.html(a créer)
 * inscription.html(a créer)
 * partir témoignage qui sera gérer coté admin
+
+je donnerai les modèles des applications validés
