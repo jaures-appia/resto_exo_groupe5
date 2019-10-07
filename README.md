@@ -25,7 +25,6 @@ qui va gérer les différents menu et les spécialités du resto
 ##### pages
 * menu.html(existe)
 * special-dishes.html(existe) page qui contient les plats d'une specialite
-* description-plat .html(a créer)
 * petit-dejeuner.html(a créer) qui renvera vers une liste de tous les petits-dejeuner
 * plat-resistance.html(a créer) qui renvera vers une liste de tous les plats de resistance
 * decert.html(a créer) qui renvera vers une liste de tous les decerts
