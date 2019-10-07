@@ -45,6 +45,6 @@ qui va gérer les clients du resto et les retours des clients
 ##### pages
 * index.html(existe)
 * about.html(existe)
-* login.html(existe)
-* inscription.html(existe)
+* login.html(a créer)
+* inscription.html(a créer)
 * partir témoignage qui sera gérer coté admin
