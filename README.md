@@ -1,28 +1,28 @@
 # resto_exo_groupe5
 exercice de groupe sur sur drf (groupe5 avec josue, hans et reine) 
 
-#Les Applications
+# Les Applications
 ici les applications trouvés et la description de celles-ci
 
-###Configuration
+### Configuration
 qui va gérer la configuration du site
-#####pages
+##### pages
 aucune pages
 
-###Horaires
+### Horaires
 qui va gérer les horaires du resto
-#####pages
+##### pages
 aucune pages
 
-###Contact
+### Contact
 qui va gérer les contacts et les newsletters du resto
-#####pages
+##### pages
 -contact.html(a créer)
 -la newsletter qui est dans le footer
 
-###menu
+### menu
 qui va gérer les différents menu et les spécialités du resto
-#####pages
+##### pages
 -menu.html(existe)
 -special-dishes.html(existe)
 -description-plat.html(a créer)
@@ -30,15 +30,15 @@ qui va gérer les différents menu et les spécialités du resto
 -plat-resistance.html(a créer) qui renvera vers une liste de tous les plats de resistance
 -decert.html(a créer) qui renvera vers une liste de tous les decerts
 
-###team
+### team
 qui va gérer le personnel du resto
-#####pages
+##### pages
 -team.html(existe)
 -un bouton "voir plus" sur la page home qui renvera sur team.html(a créer)
 
-###réservation
+### réservation
 qui va gérer les réservations du resto
-#####pages
+##### pages
 -reservation.html(existe)
 -special-dishes.html(existe)
 
