@@ -39,5 +39,12 @@ qui va gérer le personnel du resto
 qui va gérer les réservations du resto
 ##### pages
 * reservation.html(existe)
-* special-dishes.html(existe)
 
+## resto
+qui va gérer les clients du resto et les retours des clients
+##### pages
+* index.html(existe)
+* about.html(existe)
+* login.html(existe)
+* inscription.html(existe)
+* partir témoignage qui sera gérer coté admin
